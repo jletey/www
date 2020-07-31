@@ -14,5 +14,8 @@ body {
 }
 
 a {
+  color: var(--black);
+}
+a:hover {
   color: var(--red);
 }
