@@ -7,19 +7,19 @@
 }
 
 ::selection {
-  background-color: var(--black);
-  color: var(--white);
+  background-color: var(--white);
+  color: var(--black);
 }
 
 html,
 body {
-  background-color: var(--white);
-  color: var(--black);
+  background-color: var(--black);
+  color: var(--white);
   font-family: "Jost";
 }
 
 a {
-  color: var(--black);
+  color: var(--white);
 }
 a:hover {
   color: var(--red);
