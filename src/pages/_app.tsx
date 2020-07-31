@@ -15,7 +15,7 @@ const SEO = {
     description,
     images: [
       {
-        url: "/og.png",
+        url: "https://johnletey.vercel.app/og.png",
         alt: title,
         width: 1200,
         height: 630,
