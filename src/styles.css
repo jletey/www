@@ -1,0 +1,18 @@
+@import url("https://indestructibletype.com/fonts/Jost.css");
+
+:root {
+  --black: #000000;
+  --white: #f5f5f5;
+  --red: #a76c6e;
+}
+
+html,
+body {
+  background-color: var(--white);
+  color: var(--black);
+  font-family: "Jost";
+}
+
+a {
+  color: var(--red);
+}
