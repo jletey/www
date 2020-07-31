@@ -6,6 +6,11 @@
   --red: #a76c6e;
 }
 
+::selection {
+  background-color: var(--black);
+  color: var(--white);
+}
+
 html,
 body {
   background-color: var(--white);
