@@ -7,7 +7,7 @@ const Home = () => {
       <a href="mailto:johnletey@gmail.com">
         <Mail />
       </a>
-      <a href="https://github.com/jletey">
+      <a href="https://github.com/johnletey">
         <GitHub />
       </a>
       <a href="https://twitter.com/johnletey">
